@@ -1,8 +1,4 @@
-
-
 const quizData = [
- 
-
   {
     question: `What was Sarah's reaction to the news that she would bear a son?`,
     a: `She laughed`,
@@ -27,6 +23,15 @@ const quizData = [
     c: `Chicken`,
     d: `Snake`,
     correct: "d",
+  },
+
+  {
+    question: `Which place is called 'Zion' and ' the city of David'?`,
+    a: `Lagos`,
+    b: `Jerusalem`,
+    c: `Jericho`,
+    d: `Canaan`,
+    correct: "b",
   },
 
   {
